@@ -95,16 +95,6 @@ void show_queue()
 // Main function
 int main()
 {
-    /*enqueue(10);
-    enqueue(9);
-    enqueue(8);
-    enqueue(7);
-    show_queue();
-    dequeue();
-    show_queue();
-    printf("%d\n",get_front());
-    is_empty();*/
-
     printf("****   Queue implementation using linked list   ****\n");
     do{
         int choice,data;
